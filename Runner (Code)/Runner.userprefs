@@ -1,9 +1,10 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Managers\ParticleSystemManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Booster\Booster.cs">
     <Files>
-      <File FileName="Assets\Runner\Runner.cs" Line="69" Column="32" />
-      <File FileName="Assets\Booster\Booster.cs" Line="1" Column="1" />
+      <File FileName="Assets\Booster\Booster.cs" Line="15" Column="2" />
+      <File FileName="Assets\Booster\Booster.cs" Line="43" Column="1" />
+      <File FileName="Assets\Runner\Runner.cs" Line="1" Column="1" />
       <File FileName="Assets\Managers\GUIManager.cs" Line="1" Column="1" />
       <File FileName="Assets\Managers\ParticleSystemManager.cs" Line="1" Column="1" />
     </Files>

@@ -10,7 +10,8 @@ Platform assembly: C:\Users\Public\Documents\Unity Projects\Runner\Runner_Data\M
 Loading C:\Users\Public\Documents\Unity Projects\Runner\Runner_Data\Managed\UnityEngine.dll into Unity Child Domain
 Platform assembly: C:\Users\Public\Documents\Unity Projects\Runner\Runner_Data\Managed\Assembly-CSharp.dll (this message is harmless)
 Loading C:\Users\Public\Documents\Unity Projects\Runner\Runner_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-- Completed reload, in  0.297 seconds
+- Completed reload, in  0.570 seconds
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+Platform assembly: C:\Users\Public\Documents\Unity Projects\Runner\Runner_Data\Managed\System.dll (this message is harmless)

@@ -1,11 +1,13 @@
 ﻿using UnityEngine;
 using System.Collections;
+[RequireComponent(typeof(AudioSource))]
 
 public class Booster : MonoBehaviour {
 
 	public Vector3 offset, rotationVelocity;
 	public float recycleOffset, spawnChance;
-
+	public AudioClip clip;
+	
 	void Start () {
 		GameEventManager.GameOver += GameOver;
 		gameObject.SetActive(false);
@@ -34,6 +36,7 @@ public class Booster : MonoBehaviour {
 
 	void OnTriggerEnter () {
 		Runner.AddBoost();
+		audio.PlayOneShot (clip, 1.0F);
 		gameObject.SetActive(false);
 	}
 }
